@@ -40,7 +40,7 @@ const Cardbottom = () => {
     <>
    
 
-   <div style={{textAlign:"center",color:"rgb(249, 207, 212)",marginTop:"20px",fontSize:"20px"}}><b>OUR OFFERS</b></div>
+   <div style={{textAlign:"center",color:"rgb(249, 207, 212)",marginTop:"20px",fontSize:"20px"}}><b>OUR-OFFERS(Brand Strategy Content & Technology)</b></div>
     <div className="card-container">
        {dummyData.map((data, index) => (
         <div key={index} className='card' >
